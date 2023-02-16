@@ -1,5 +1,5 @@
 # 💫 About Me:
-Atualmente estudando desenvolvimento web na Trybe<br>agora no modulo de Front-End, fazendo projetos com React.
+Atualmente estudando desenvolvimento web na Trybe
 
 
 ## 🌐 Socials:
