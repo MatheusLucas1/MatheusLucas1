@@ -1,5 +1,5 @@
 # 💫 About Me:
-Atualmente estudando desenvolvimento web na Trybe
+Sou desenvolvedor Full stack, procurando minha primeira vaga de emprego, adoro aprender coisas novas e sou apaixonado por tecnologia desde sempre!
 
 
 ## 🌐 Socials:
