@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sou desenvolvedor Full stack, procurando minha primeira vaga de emprego, adoro aprender coisas novas e sou apaixonado por tecnologia desde sempre!
+I am currently seeking a full-stack developer position. I am looking for a workplace where I can apply the technical and soft skills, I acquired during my education at Trybe, to contribute to the team and continue learning from the company. I have been passionate about technology since I was a kid, so being able to work with it will be an immense pleasure. 
 
 
 ## 🌐 Socials:
