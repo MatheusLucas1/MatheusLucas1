@@ -1,5 +1,11 @@
 # 💫 About Me:
-I am currently seeking a full-stack developer position. I am looking for a workplace where I can apply the technical and soft skills, I acquired during my education at Trybe, to contribute to the team and continue learning from the company. I have been passionate about technology since I was a kid, so being able to work with it will be an immense pleasure. 
+I am a full-stack developer with 6 months of experience. During this time, I have completed various projects in web development as part of the Trybe web development course. Trybe is a programming school that provides specialized training focused on the job market. 
+
+In these projects, I tackled different levels of difficulty, always striving to improve the quality and scalability of the code. I applied software architecture concepts, such as the MSC model (Model-View-Controller) and utilized object-oriented programming (OOP) principles. To ensure code safety and prevent errors, I employed an ORM (Sequelize) for data modeling and utilized TypeScript for data typing. 
+
+For the front-end, I utilized React and its associated tools in my projects to create an organized and responsive user interface. 
+
+. 
 
 
 ## 🌐 Socials:
