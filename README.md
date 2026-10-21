@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 I am a Full-Stack web developer. I have completed various projects in web development as part of the Trybe web development course. Trybe is a programming school that provides specialized training focused on the job market. 
 
 In these projects, I tackled different levels of difficulty, always striving to improve the quality and scalability of the code. I applied software architecture concepts, such as the MSC model (Model-View-Controller) and utilized object-oriented programming (OOP) principles. To ensure code safety and prevent errors, I employed an ORM (Sequelize) for data modeling and utilized TypeScript for data typing. 
