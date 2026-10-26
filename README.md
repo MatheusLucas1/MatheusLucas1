@@ -13,30 +13,28 @@ Today I work as a Full-Stack Developer at **ScanBrazil Consulting**, building ev
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-bueno-lucas-874162234/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheuslucasdev/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/matheusbuenolucas_)
 
 ## 💻 Skills
 
 ### Languages
 
-![C#](https://img.shields.io/badge/C%23-%23239120?style=for-the-badge&logo=csharp&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23239120?style=for-the-badge&logo=dotnet&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Back-end
 
-![.NET 8](https://img.shields.io/badge/.NET_8-%23512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-%23512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![.NET Core / .NET 8](https://img.shields.io/badge/.NET_Core_%2F_.NET_8-%23512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core Web API](https://img.shields.io/badge/ASP.NET_Core_Web_API-%23512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-%236DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-%23005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-%23005571?style=for-the-badge)
 ![CQRS](https://img.shields.io/badge/CQRS-%23333333?style=for-the-badge)
 
 ### Front-end
 
 ![React](https://img.shields.io/badge/React-%2320232a?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-%23000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-%23CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-%230769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
 ### Data & Messaging
@@ -48,7 +46,6 @@ Today I work as a Full-Stack Developer at **ScanBrazil Consulting**, building ev
 ![Redis](https://img.shields.io/badge/Redis-%23DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/Entity_Framework-%23512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![LINQ](https://img.shields.io/badge/LINQ-%23512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Sequelize](https://img.shields.io/badge/Sequelize-%2352B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
 ![Azure Service Bus](https://img.shields.io/badge/Azure_Service_Bus-%230078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![IBM MQ](https://img.shields.io/badge/IBM_MQ-%23052FAD?style=for-the-badge&logo=ibm&logoColor=white)
 
@@ -60,17 +57,13 @@ Today I work as a Full-Stack Developer at **ScanBrazil Consulting**, building ev
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Datadog](https://img.shields.io/badge/Datadog-%23632CA6?style=for-the-badge&logo=datadog&logoColor=white)
 
-### Testing & Tools
+### Testing & Version Control
 
 ![xUnit](https://img.shields.io/badge/xUnit-%23512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Moq](https://img.shields.io/badge/Moq-%23512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033?style=for-the-badge&logo=git&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-%234B3263?style=for-the-badge&logo=eslint&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-%236DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
-**Practices:** Agile / Scrum · Microservices · Distributed systems · Event-driven design · Cache-aside · CI/CD · Observability (APM, logs)
+**Practices:** Agile / Scrum · Microservices · Distributed systems · Event-driven design · Unit testing · Cache-aside · CI/CD · Observability (APM, logs)
 
 ## 📊 GitHub Stats
 
