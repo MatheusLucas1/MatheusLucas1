@@ -1,33 +1,51 @@
-#  About Me:
-I am a Full-Stack web developer. I have completed various projects in web development as part of the Trybe web development course. Trybe is a programming school that provides specialized training focused on the job market. 
+# Hi, I'm Matheus Lucas 👋
 
-In these projects, I tackled different levels of difficulty, always striving to improve the quality and scalability of the code. I applied software architecture concepts, such as the MSC model (Model-View-Controller) and utilized object-oriented programming (OOP) principles. To ensure code safety and prevent errors, I employed an ORM (Sequelize) for data modeling and utilized TypeScript for data typing. 
+## 🙋 About Me
 
-For the front-end, I utilized React and its associated tools in my projects to create an organized and responsive user interface. 
+I'm a Full-Stack web developer trained at [Trybe](https://www.betrybe.com/), a programming school focused on preparing developers for the job market.
 
+Throughout the course I built projects of increasing difficulty, always aiming for code quality and scalability:
 
- 
+- **Back-end:** layered architecture with the **MSC model (Model-Service-Controller)**, object-oriented programming (OOP) principles, **Sequelize** ORM for data modeling and **TypeScript** for type safety.
+- **Front-end:** organized and responsive user interfaces built with **React** and its ecosystem.
 
+I've also been expanding my back-end stack with **Java (Spring)** and **C# (.NET)**.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/matheusbuenolucas_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/matheus-bueno-lucas-874162234/) 
+## 🌐 Socials
 
-# 💻 Skills:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-bueno-lucas-874162234/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/matheusbuenolucas_)
 
-![Static Badge](https://img.shields.io/badge/Spring-%23EC1C24?style=for-the-badge&logo=spring&color=%23000000)
-![Static Badge](https://img.shields.io/badge/.NET-%23512BD4?style=for-the-badge&logo=dotnet&color=%23512BD4)![Static Badge](https://img.shields.io/badge/C%23-%23512BD4?style=for-the-badge&logo=csharp&color=%230C1528)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MatheusLucas1&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MatheusLucas1&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusLucas1&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+## 💻 Skills
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MatheusLucas1&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
+### Languages
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
----
-[![](https://visitcount.itsvg.in/api?id=MatheusLucas1&icon=0&color=0)](https://visitcount.itsvg.in)
+### Back-end
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
+
+### Front-end
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+
+### Tools
+
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MatheusLucas1&theme=dark&include_all_commits=true&count_private=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusLucas1&theme=dark&layout=compact)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=MatheusLucas1&theme=dark)
